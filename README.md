@@ -6,6 +6,8 @@ Pre-processed New Yorker caption contest images and submitted captions for ML, i
 
 Data have been resized to 224x224 jpgs. 
 
+Encodes text data using a vocabulary built from the COCO image annotations dataset. Pre-built in vocab.pkl. You can modify `prepare_vocab.py` to change this.
+
 ## To use:
 
 ```
