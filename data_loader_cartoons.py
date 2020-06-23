@@ -7,6 +7,7 @@ Modified from:
 import os
 import nltk
 import torch
+from PIL import Image
 from torchvision import transforms
 import pandas as pd
 import pickle 
