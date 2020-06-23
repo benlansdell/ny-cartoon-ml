@@ -1,5 +1,7 @@
 # New Yorker caption contest dataset and loader
 
+!![Funny caption](https://raw.githubusercontent.com/benlansdell/ny-cartoon-ml/master/508.jpg?token=ABZIQN42ZWZQDDLGFGWHLK267NXOW "Logo Title Text 1")
+
 Pre-processed New Yorker caption contest images and submitted captions for ML, including pytorch data loader.
 
 187 training images and 39 validation images, along with 926195 corresponding training captions and 99298 validation captions.
